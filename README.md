@@ -53,7 +53,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| zhiyuan zhang           | Section 002       | zhiyuan4             | < https://zhiyuan4.github.io/zzy/>        |  
 
 <br>
 
