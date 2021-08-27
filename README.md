@@ -53,8 +53,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-
+| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>     |  
+| Evan Spinney            | Section 002       | evanspinney           | <https://evanspinney.github.io/New/>                    |  
 <br>
 
 # Integration of RStudio with Git
