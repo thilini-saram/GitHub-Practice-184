@@ -54,7 +54,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Jasmine Merrill         | Section 002       | jlm7525               | 
+| Jasmine Merrill         | Section 002       | jlm7525               | <https://jlm7525.github.io/Practice-repo/>
 <br>
 
 # Integration of RStudio with Git
