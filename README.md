@@ -53,7 +53,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
+| Shubhang Srikoti        | Section 002       | shubhangsrikoti       | <https://shubhangsrikoti.github.io/newRepo/> 
 
 <br>
 
