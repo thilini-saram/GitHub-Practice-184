@@ -54,7 +54,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Ethan Fang              | Section 002       | Edfang192             | </Edfang192.github.io/GitHub-Practice-185>              |  
+| Ethan Fang              | Section 002       | Edfang192             | </Edfang192.github.io/GitHub-Practice-185/>              |  
  
 <br>
 
