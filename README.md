@@ -55,10 +55,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Cooper Wolff            | Section 002       | CooperWolff          | https://cooperwolff.github.io/Practice/                  |  
 
-Added Cooper Wolff to Name
-Added Section 002 to Class Section
-Added CooperWolff to GitHub ID
-Added the link for my GitHub page
+Added Cooper Wolff to class table
 
 <br>
 
