@@ -51,7 +51,7 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
+| Nick McCuch             | Section 004       | nmm6025               | <https://nmm6025.github.io/Stat-184/>                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 
