@@ -54,6 +54,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Eli Freedman            | Section 002       | EliFreedman          |  <https://elifreedman.github.io/STAT-184/>               |
 
 <br>
 
