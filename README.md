@@ -1,6 +1,6 @@
 
 # GitHub Pages Assignment
-#bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
+bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 **(10 pts) Assignment Instructions**
 
 *Go slowly, follow the instructions carefully, and you'll be fine! Note the steps in each section.*
