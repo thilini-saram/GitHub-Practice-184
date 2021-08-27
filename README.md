@@ -56,7 +56,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>      |  
 | Brian Montagna          | Section 002       | bpm5606              | <https://bpm5606.github.io/Stat184_Practice/>            |
 
-
+ 
 <br>
 
 # Integration of RStudio with Git
