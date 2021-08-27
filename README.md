@@ -53,7 +53,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>      
+| Shubham Mishra          | Section 002       | sjm6951               | <https://sjm6951.github.io/thisisthefirstone/>    
 
 <br>
 
