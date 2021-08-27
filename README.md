@@ -53,7 +53,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>      |  
+| Alex Grimm              | Section 002       | Agrimm22             | <https://github.com/Agrimm22/Stat-184-Practice.git>
 
 <br>
 
