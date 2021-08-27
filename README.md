@@ -52,8 +52,9 @@
 # Class GitHub Table 
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+|:------------------------|:------------------|:---------------------|:---------------------------------------------------------| 
+| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |
+| Ziyuan Ye        | Section 002       | yzysnake        | <https://yzysnake.github.io/Stat-184/>       |
 
 <br>
 
