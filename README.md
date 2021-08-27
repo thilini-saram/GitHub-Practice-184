@@ -54,7 +54,8 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-
+| Ethan Fang              | Section 002       | Edfang192             | <https://github.com/Edfang192/Practice-repo/>              |  
+ 
 <br>
 
 # Integration of RStudio with Git
