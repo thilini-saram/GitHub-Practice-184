@@ -64,4 +64,3 @@
 - More detail if needed: <http://happygitwithr.com/index.html>
 
 *Content credit: This assignment was adapted from [Matt Beckman's GitHub Pages Assignment](https://mdbeckman.github.io/GitHub-Practice-184/).* 
-| Longmai Chang           | Section 002       | LongmaiChang          | <https://longmaichang.github.io/GitHub-Practice/>       |
