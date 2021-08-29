@@ -55,7 +55,7 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>      |  
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>               |
- <br>
+| Jared Hayes             | Section 002       | jarocket86.          | <https://jarocket86.github.io/Stat_184/>                 |  
 
 # Integration of RStudio with Git
 
