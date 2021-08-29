@@ -55,7 +55,8 @@
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>      |  
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>               |
- <br>
+| Longmai Chang           | Section 002       | LongmaiChang         | <https://longmaichang.github.io/GitHub-Practice/>        |
+<br>
 
 # Integration of RStudio with Git
 
@@ -63,3 +64,4 @@
 - More detail if needed: <http://happygitwithr.com/index.html>
 
 *Content credit: This assignment was adapted from [Matt Beckman's GitHub Pages Assignment](https://mdbeckman.github.io/GitHub-Practice-184/).* 
+| Longmai Chang           | Section 002       | LongmaiChang          | <https://longmaichang.github.io/GitHub-Practice/>       |
