@@ -73,8 +73,8 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Riley Blake             | Section 002       | rxb993               | <https://rxb993.github.io/githubpractice/>                 | 
 | Aoran Cui               | Section 002       | AoranCui             | <https://aorancui.github.io/AORANCUI/>                     |  
 | Ethan Fang              | Section 002       | Edfang192            | <https://Edfang192.github.io/GitHub-Practice-185/>         | 
-| Brian Montagna          | Section 002       | bpm5606              | <https://bpm5606.github.io/Stat184_Practice/>              |  
-
+| Brian Montagna          | Section 002       | bpm5606              | <https://bpm5606.github.io/Stat184_Practice/>              |   
+| Eli Freedman            | Section 002       | EliFreedman          |  <https://elifreedman.github.io/STAT-184/>                 |  
 
  
 <br>
