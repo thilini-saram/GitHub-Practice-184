@@ -70,6 +70,7 @@
 | Shubham Mishra          | Section 002       | sjm6951              | <https://sjm6951.github.io/thisisthefirstone/>             |  
 | Jasmine Merrill         | Section 002       | jlm7525              | <https://jlm7525.github.io/Practice-repo/>                 | 
 | Nick McCuch             | Section 004       | nmm6025              | <https://nmm6025.github.io/Stat-184/>                      |                    
+| Abhishek Ganta          | Section 002       | awg5357              | <https://awg5357.github.io/STAT-184/>                      |  
 
 
 <br>
