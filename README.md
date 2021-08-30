@@ -75,8 +75,8 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Ethan Fang              | Section 002       | Edfang192            | <https://Edfang192.github.io/GitHub-Practice-185/>         | 
 | Brian Montagna          | Section 002       | bpm5606              | <https://bpm5606.github.io/Stat184_Practice/>              |   
 | Eli Freedman            | Section 002       | EliFreedman          |  <https://elifreedman.github.io/STAT-184/>                 |  
+| Adithya Sadagopan       | Section 002       | AdithyaS1            | <https://adithyas1.github.io/STAT184/>                     |    
 
- 
 <br>
 
 
