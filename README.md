@@ -61,6 +61,7 @@
 | Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               | 
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |
 | Hunter Fristick         | Section 002       | hjf5143              | https://hjf5143.github.io/STAT184/                         |
+| Omer Canca              | Section 002       | oac5066              | <https://omercanca.github.io/Stat184/>                     |
  <br>
 
 
