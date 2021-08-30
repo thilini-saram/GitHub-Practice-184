@@ -53,7 +53,6 @@
 # Class GitHub Table 
 
 
- 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
@@ -67,6 +66,7 @@
 | Kelly McVeigh           | Section 002       | Kellymcv             |https://kellymcv.github.io/GitHubPractice/                  |  
 | zhiyuan zhang           | Section 002       | zhiyuan4             | < https://zhiyuan4.github.io/zzy/>                         |  
 | Nick Parsons            | Section 002       | NParsons97           |  https://nparsons97.github.io/Stat184/                     |  
+| Ahmad Alif Asyraf       | Section 002       | AhmadAlifAsyraf      | <https://ahmadalifasyraf.github.io/Practice-Repo/>         |   
 
 
 <br>
