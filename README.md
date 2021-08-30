@@ -81,6 +81,8 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Diane Kim               | Section 002       | dianehkim            | https://dianehkim.github.io/STAT-184/                      |   
 | Evan Spinney            | Section 002       | evanspinney          | <https://evanspinney.github.io/New/>                       |  
 | Yining Guan             | Section 002.      | YiningGuan           | <https://yiningguan.github.io/repo/>                       |  
+| Alex Grimm              | Section 002       | Agrimm22             | <https://github.com/Agrimm22/Stat-184-Practice.git>        |  
+
 
 <br>
 
