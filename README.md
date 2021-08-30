@@ -52,6 +52,7 @@
 
 # Class GitHub Table  
 
+
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
@@ -67,7 +68,9 @@
 | Nick Parsons            | Section 002       | NParsons97           |  https://nparsons97.github.io/Stat184/                     |  
 | Ahmad Alif Asyraf       | Section 002       | AhmadAlifAsyraf      | <https://ahmadalifasyraf.github.io/Practice-Repo/>         |
 | Shubham Mishra          | Section 002       | sjm6951              | <https://sjm6951.github.io/thisisthefirstone/>             |  
-| Jasmine Merrill         | Section 002       | jlm7525              | <https://jlm7525.github.io/Practice-repo/>                 |  
+| Jasmine Merrill         | Section 002       | jlm7525              | <https://jlm7525.github.io/Practice-repo/>                 | 
+| Nick McCuch             | Section 004       | nmm6025              | <https://nmm6025.github.io/Stat-184/>                      |                    
+
 
 <br>
 
