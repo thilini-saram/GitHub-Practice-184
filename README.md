@@ -1,6 +1,6 @@
 
 # GitHub Pages Assignment
-
+bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 **(10 pts) Assignment Instructions**
 
 *Go slowly, follow the instructions carefully, and you'll be fine! Note the steps in each section.*
@@ -52,7 +52,6 @@
 
 # Class GitHub Table  
 
-
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
@@ -73,8 +72,11 @@
 | Connor Anderson         | Section 002       | connoranderson100    | <https://connoranderson100.github.io/ConnorRepo/>          |  
 | Riley Blake             | Section 002       | rxb993               | <https://rxb993.github.io/githubpractice/>                 | 
 | Aoran Cui               | Section 002       | AoranCui             | <https://aorancui.github.io/AORANCUI/>                     |  
-| Ethan Fang              | Section 002       | Edfang192            | <https://Edfang192.github.io/GitHub-Practice-185/>         |   
+| Ethan Fang              | Section 002       | Edfang192            | <https://Edfang192.github.io/GitHub-Practice-185/>         | 
+| Brian Montagna          | Section 002       | bpm5606              | <https://bpm5606.github.io/Stat184_Practice/>              |  
 
+
+ 
 <br>
 
 
