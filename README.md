@@ -54,9 +54,10 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
-| Shubhang Srikoti        | Section 002       | shubhangsrikoti       | <https://shubhangsrikoti.github.io/newRepo/> 
+| Shubhang Srikoti        | Section 002       | shubhangsrikoti       | <https://shubhangsrikoti.github.io/newRepo/> | 
+| Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>               |
+ <br>
 
-<br>
 
 # Integration of RStudio with Git
 
