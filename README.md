@@ -73,7 +73,7 @@
 | Connor Anderson         | Section 002       | connoranderson100    | <https://connoranderson100.github.io/ConnorRepo/>          |  
 | Riley Blake             | Section 002       | rxb993               | <https://rxb993.github.io/githubpractice/>                 | 
 | Aoran Cui               | Section 002       | AoranCui             | <https://aorancui.github.io/AORANCUI/>                     |  
-
+| Ethan Fang              | Section 002       | Edfang192            | <https://Edfang192.github.io/GitHub-Practice-185/>         |   
 
 <br>
 
