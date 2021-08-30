@@ -84,7 +84,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Alex Grimm              | Section 002       | Agrimm22             | <https://github.com/Agrimm22/Stat-184-Practice.git>        |  
 | Eunice Hong             | Section 002       | eunice-hong1         | <https://eunice-hong1.github.io/Eunice-Hong/>              |  
 | Kirtan Shah             | Section 002       | kirtanrshah          | https://kirtanrshah.github.io/Stat-184/                    |  
-
+| Longmai Chang           | Section 002       | LongmaiChang         | <https://longmaichang.github.io/GitHub-Practice/>          |  
 
 <br>
 
