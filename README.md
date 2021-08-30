@@ -51,12 +51,13 @@
 
 # Class GitHub Table 
 
-| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
-|:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
-| Shubhang Srikoti        | Section 002       | shubhangsrikoti       | <https://shubhangsrikoti.github.io/newRepo/> | 
-| Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>               |
+| Name                    | Class Section     | GitHub ID             | Link for your GitHub Page                                |  
+| Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>      |  
+| Anna Gillard            | Section 002       | annagillard           | <https://annagillard.github.io/Practice-repo/>           |
+| Shubhang Srikoti        | Section 002       | shubhangsrikoti       | <https://shubhangsrikoti.github.io/newRepo/>             | 
+| Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                |
  <br>
+
 
 
 # Integration of RStudio with Git
