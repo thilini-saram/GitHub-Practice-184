@@ -51,6 +51,7 @@
 
 
 # Class GitHub Table 
+
  
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
@@ -62,7 +63,9 @@
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |  
 | Hunter Fristick         | Section 002       | hjf5143              | https://hjf5143.github.io/STAT184/                         |  
 | Omer Canca              | Section 002       | oac5066              | <https://omercanca.github.io/Stat184/>                     |  
-| Kelly McVeigh           | Section 002       | Kellymcv             |https://kellymcv.github.io/GitHubPractice/                  |    
+| Kelly McVeigh           | Section 002       | Kellymcv             |https://kellymcv.github.io/GitHubPractice/                  |  
+| zhiyuan zhang           | Section 002       | zhiyuan4             | < https://zhiyuan4.github.io/zzy/>                         |    
+
 
 <br>
 
