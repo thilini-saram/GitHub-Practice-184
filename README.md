@@ -72,7 +72,7 @@
 | Nick McCuch             | Section 004       | nmm6025              | <https://nmm6025.github.io/Stat-184/>                      |                    
 | Abhishek Ganta          | Section 002       | awg5357              | <https://awg5357.github.io/STAT-184/>                      |  
 | Connor Anderson         | Section 002       | connoranderson100    | <https://connoranderson100.github.io/ConnorRepo/>          |  
-
+| Riley Blake             | Section 002       | rxb993               | <https://rxb993.github.io/githubpractice/>                 |  
 
 <br>
 
