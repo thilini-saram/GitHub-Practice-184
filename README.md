@@ -66,7 +66,8 @@
 | Kelly McVeigh           | Section 002       | Kellymcv             |https://kellymcv.github.io/GitHubPractice/                  |  
 | zhiyuan zhang           | Section 002       | zhiyuan4             | < https://zhiyuan4.github.io/zzy/>                         |  
 | Nick Parsons            | Section 002       | NParsons97           |  https://nparsons97.github.io/Stat184/                     |  
-| Ahmad Alif Asyraf       | Section 002       | AhmadAlifAsyraf      | <https://ahmadalifasyraf.github.io/Practice-Repo/>         |   
+| Ahmad Alif Asyraf       | Section 002       | AhmadAlifAsyraf      | <https://ahmadalifasyraf.github.io/Practice-Repo/>         |
+|Shubham Mishra           | Section 002       | sjm6951              | <https://sjm6951.github.io/thisisthefirstone/>             |  
 
 
 <br>
