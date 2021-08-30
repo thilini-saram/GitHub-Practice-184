@@ -23,7 +23,7 @@
     - Modify content in the README if you like, but it's fine to use filler content provided for now  
 - Go to Thilini's GitHub-Practice-184 repo (that generated this page).
     - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "thilini-saram", and find the GitHub-Practice-184 repo
-    - [Top right of Thilini's GitHub-Practice-184 repo] >> Click on the "Fork" to create your own copy of the class repo
+    - [Top right of Hunter's GitHub-S184 repo] >> Click on the "Fork" to create your own copy of the class repo
     - Your copy of the repo should say "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `thilini-saram/GitHub-Practice-184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information. 
@@ -51,17 +51,17 @@
 
 
 # Class GitHub Table 
-
-| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
+ 
+| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |
+|:------------------------|:------------------|:---------------------|:-----------------------------------------------------------| 
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Cayle Londono           | Section 002       | clondono10           | <https://clondono10.github.io/Cayle-Londono-git-practice/> | 
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |
 | Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               | 
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |
+| Hunter Fristick         | Section 002       | hjf5143              | https://hjf5143.github.io/STAT184/                         |
  <br>
-
-
 
 
 # Integration of RStudio with Git
