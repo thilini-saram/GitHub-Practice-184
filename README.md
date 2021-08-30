@@ -79,7 +79,8 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Kushal Regmi            | Section 002       | kregmi001            | <https://kregmi001.github.io/GitHub-Practices-184/>        |  
 | Ziyuan Ye               | Section 002       | yzysnake             | <https://yzysnake.github.io/Stat-184/>                     |  
 | Diane Kim               | Section 002       | dianehkim            | https://dianehkim.github.io/STAT-184/                      |   
-| Evan Spinney            | Section 002       | evanspinney          | <https://evanspinney.github.io/New/>                       |    
+| Evan Spinney            | Section 002       | evanspinney          | <https://evanspinney.github.io/New/>                       |  
+| Yining Guan             | Section 002.      | YiningGuan           | <https://yiningguan.github.io/repo/>                       |  
 
 <br>
 
