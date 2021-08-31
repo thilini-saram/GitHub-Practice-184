@@ -54,7 +54,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                |  
 |:------------------------|:------------------|:---------------------|:---------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Katie Kelly             | Section 002       | kvk5725              | <https://kvk5725.github.io/katie-kelly/>                  |
+| Katie Kelly             | Section 002       | kvk5725               | <https://kvk5725.github.io/katie-kelly/>                  |
 <br>
 
 # Integration of RStudio with Git
