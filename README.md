@@ -83,7 +83,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Yining Guan             | Section 002.      | YiningGuan           | <https://yiningguan.github.io/repo/>                       |  
 | Alex Grimm              | Section 002       | Agrimm22             | <https://github.com/Agrimm22/Stat-184-Practice.git>        |  
 | Eunice Hong             | Section 002       | eunice-hong1         | <https://eunice-hong1.github.io/Eunice-Hong/>              |  
-| Kirtan Shah             | Section 002       | kirtanrshah          | https://kirtanrshah.github.io/Stat-184/                    |  
+| Kirtan Shah             | Section 002       | kirtanrshah          | <https://kirtanrshah.github.io/Stat-184/>                  |  
 | Longmai Chang           | Section 002       | LongmaiChang         | <https://longmaichang.github.io/GitHub-Practice/>          |  
 | Jared Hayes             | Section 002       | jarocket86.          | <https://jarocket86.github.io/Stat_184/>                   |  
 | Cooper Wolff            | Section 002       | CooperWolff          | https://cooperwolff.github.io/Practice/                    |    
