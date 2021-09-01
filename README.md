@@ -86,8 +86,11 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Kirtan Shah             | Section 002       | kirtanrshah          | https://kirtanrshah.github.io/Stat-184/                    |  
 | Longmai Chang           | Section 002       | LongmaiChang         | <https://longmaichang.github.io/GitHub-Practice/>          |  
 | Jared Hayes             | Section 002       | jarocket86.          | <https://jarocket86.github.io/Stat_184/>                   |  
-| Cooper Wolff            | Section 002       | CooperWolff          | https://cooperwolff.github.io/Practice/                    |    
-| Sung Chang              | Section 002       | changsh33            | <https://changsh33.github.io/changsh_repo/>                |
+| Cooper Wolff            | Section 002       | CooperWolff          | https://cooperwolff.github.io/Practice/                    |  
+| Sidhart Sathya          | Section 002       | Sidhart-Sathya       | <https://sidhart-sathya.github.io/Sidhart-Sathya/>         |    
+|ChenXing Li              |section 002        |ckl5655               |<https://ckl5655.github.io/ChenXing-Li/>                    |  
+| Sung Chang              | Section 002       | changsh33            | <https://changsh33.github.io/changsh_repo/>                |  
+
 
 
 <br>
