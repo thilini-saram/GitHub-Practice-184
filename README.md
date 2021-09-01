@@ -60,7 +60,7 @@
 | Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |
 | Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               | 
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |
-| Hunter Fristick         | Section 002       | hjf5143              | https://hjf5143.github.io/STAT184/                         |
+| Hunter Fristick         | Section 002       | hjf5143              | <https://hjf5143.github.io/STAT184/>                       |
  <br>
 
 
