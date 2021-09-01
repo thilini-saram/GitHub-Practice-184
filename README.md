@@ -90,8 +90,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Sidhart Sathya          | Section 002       | Sidhart-Sathya       | <https://sidhart-sathya.github.io/Sidhart-Sathya/>         |    
 |ChenXing Li              |section 002        |ckl5655               |<https://ckl5655.github.io/ChenXing-Li/>                    |  
 | Sung Chang              | Section 002       | changsh33            | <https://changsh33.github.io/changsh_repo/>                |  
-
-
+| Katie Kelly             | Section 002       | kvk5725              | <https://kvk5725.github.io/katie-kelly/>                   |  
 
 <br>
 
