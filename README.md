@@ -27,7 +27,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
     - Your copy of the repo should say "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `thilini-saram/GitHub-Practice-184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information. 
-- |
+- 
     - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Thilini Saram" row as a template
     - (2 pts) Add your First & Last Name  
     - (2 pt)  Add your Class Section
@@ -88,7 +88,9 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Jared Hayes             | Section 002       | jarocket86.          | <https://jarocket86.github.io/Stat_184/>                   |  
 | Cooper Wolff            | Section 002       | CooperWolff          | https://cooperwolff.github.io/Practice/                    |  
 | Sidhart Sathya          | Section 002       | Sidhart-Sathya       | <https://sidhart-sathya.github.io/Sidhart-Sathya/>         |    
-|ChenXing Li              |section 002        |ckl5655               |<https://ckl5655.github.io/ChenXing-Li/>                   |
+|ChenXing Li              |section 002        |ckl5655               |<https://ckl5655.github.io/ChenXing-Li/>                    |  
+| Sung Chang              | Section 002       | changsh33            | <https://changsh33.github.io/changsh_repo/>                |  
+
 
 
 <br>
