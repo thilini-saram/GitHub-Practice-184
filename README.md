@@ -92,6 +92,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Sung Chang              | Section 002       | changsh33            | <https://changsh33.github.io/changsh_repo/>                |  
 | Katie Kelly             | Section 002       | kvk5725              | <https://kvk5725.github.io/katie-kelly/>                   |  
 | Miho Suzuki             | Section 002       |  Msuzuki-0112        |https://msuzuki-0112.github.io/stat184-002/                 |  
+| Sarvjot Baxi            | Section 002       | baxiSahab            | https://github.com/baxiSahab/firstRepo                     |  
 
 <br>
 
