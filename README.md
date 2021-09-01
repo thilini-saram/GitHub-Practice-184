@@ -95,6 +95,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Sarvjot Baxi            | Section 002       | baxiSahab            | https://github.com/baxiSahab/firstRepo                     |  
 | Oshika Mishra           | Section 002       | oshikamishra231      | https://github.com/oshikamishra231/STAT184/                |  
 | Kebei Yu                | Section 002       | oca510               | <https://oca510.github.io/class1/>                         |  
+| Enhao Yu                | Section 002       | ejy5081              | <https://ejy5081.github.io/STAT184_github_HW/>             |  
 
 
 <br>
