@@ -87,7 +87,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Longmai Chang           | Section 002       | LongmaiChang         | <https://longmaichang.github.io/GitHub-Practice/>          |  
 | Jared Hayes             | Section 002       | jarocket86.          | <https://jarocket86.github.io/Stat_184/>                   |  
 | Cooper Wolff            | Section 002       | CooperWolff          | https://cooperwolff.github.io/Practice/                    |    
-
+| Enhao Yu                | Section 002       | ejy5081              | <https://ejy5081.github.io/STAT184_github_HW/>             |
 
 <br>
 
