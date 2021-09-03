@@ -1,6 +1,6 @@
 
 # GitHub Pages Assignment
-
+bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 **(10 pts) Assignment Instructions**
 
 *Go slowly, follow the instructions carefully, and you'll be fine! Note the steps in each section.*
@@ -27,7 +27,7 @@
     - Your copy of the repo should say "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `thilini-saram/GitHub-Practice-184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information. 
-- |
+- 
     - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Thilini Saram" row as a template
     - (2 pts) Add your First & Last Name  
     - (2 pt)  Add your Class Section
@@ -50,18 +50,60 @@
 <br>
 
 
-# Class GitHub Table 
- 
-| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |
-|:------------------------|:------------------|:---------------------|:-----------------------------------------------------------| 
-| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Cayle Londono           | Section 002       | clondono10           | <https://clondono10.github.io/Cayle-Londono-git-practice/> | 
+# Class GitHub Table  
+
+| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
+|:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |
 | Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               | 
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |
 | Hunter Fristick         | Section 002       | hjf5143              | <https://hjf5143.github.io/STAT184/>                       |
- <br>
+| Cayle Londono           | Section 002       | clondono10           | <https://clondono10.github.io/Cayle-Londono-git-practice/> |    
+| Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |  
+| Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               |  
+| Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |  
+| Hunter Fristick         | Section 002       | hjf5143              | https://hjf5143.github.io/STAT184/                         |  
+| Omer Canca              | Section 002       | oac5066              | <https://omercanca.github.io/Stat184/>                     |  
+| Kelly McVeigh           | Section 002       | Kellymcv             |https://kellymcv.github.io/GitHubPractice/                  |  
+| zhiyuan zhang           | Section 002       | zhiyuan4             | < https://zhiyuan4.github.io/zzy/>                         |  
+| Nick Parsons            | Section 002       | NParsons97           |  https://nparsons97.github.io/Stat184/                     |  
+| Ahmad Alif Asyraf       | Section 002       | AhmadAlifAsyraf      | <https://ahmadalifasyraf.github.io/Practice-Repo/>         |
+| Shubham Mishra          | Section 002       | sjm6951              | <https://sjm6951.github.io/thisisthefirstone/>             |  
+| Jasmine Merrill         | Section 002       | jlm7525              | <https://jlm7525.github.io/Practice-repo/>                 | 
+| Nick McCuch             | Section 004       | nmm6025              | <https://nmm6025.github.io/Stat-184/>                      |                    
+| Abhishek Ganta          | Section 002       | awg5357              | <https://awg5357.github.io/STAT-184/>                      |  
+| Connor Anderson         | Section 002       | connoranderson100    | <https://connoranderson100.github.io/ConnorRepo/>          |  
+| Riley Blake             | Section 002       | rxb993               | <https://rxb993.github.io/githubpractice/>                 | 
+| Aoran Cui               | Section 002       | AoranCui             | <https://aorancui.github.io/AORANCUI/>                     |  
+| Ethan Fang              | Section 002       | Edfang192            | <https://Edfang192.github.io/GitHub-Practice-185/>         | 
+| Brian Montagna          | Section 002       | bpm5606              | <https://bpm5606.github.io/Stat184_Practice/>              |   
+| Eli Freedman            | Section 002       | EliFreedman          |  <https://elifreedman.github.io/STAT-184/>                 |  
+| Adithya Sadagopan       | Section 002       | AdithyaS1            | <https://adithyas1.github.io/STAT184/>                     |    
+| Kushal Regmi            | Section 002       | kregmi001            | <https://kregmi001.github.io/GitHub-Practices-184/>        |  
+| Ziyuan Ye               | Section 002       | yzysnake             | <https://yzysnake.github.io/Stat-184/>                     |  
+| Diane Kim               | Section 002       | dianehkim            | https://dianehkim.github.io/STAT-184/                      |   
+| Evan Spinney            | Section 002       | evanspinney          | <https://evanspinney.github.io/New/>                       |  
+| Yining Guan             | Section 002.      | YiningGuan           | <https://yiningguan.github.io/repo/>                       |  
+| Alex Grimm              | Section 002       | Agrimm22             | <https://github.com/Agrimm22/Stat-184-Practice.git>        |  
+| Eunice Hong             | Section 002       | eunice-hong1         | <https://eunice-hong1.github.io/Eunice-Hong/>              |  
+| Kirtan Shah             | Section 002       | kirtanrshah          | <https://kirtanrshah.github.io/Stat-184/>                  |  
+| Longmai Chang           | Section 002       | LongmaiChang         | <https://longmaichang.github.io/GitHub-Practice/>          |  
+| Jared Hayes             | Section 002       | jarocket86.          | <https://jarocket86.github.io/Stat_184/>                   |  
+| Cooper Wolff            | Section 002       | CooperWolff          | https://cooperwolff.github.io/Practice/                    |  
+| Sidhart Sathya          | Section 002       | Sidhart-Sathya       | <https://sidhart-sathya.github.io/Sidhart-Sathya/>         |    
+|ChenXing Li              |section 002        |ckl5655               |<https://ckl5655.github.io/ChenXing-Li/>                    |  
+| Sung Chang              | Section 002       | changsh33            | <https://changsh33.github.io/changsh_repo/>                |  
+| Katie Kelly             | Section 002       | kvk5725              | <https://kvk5725.github.io/katie-kelly/>                   |  
+| Miho Suzuki             | Section 002       |  Msuzuki-0112        |https://msuzuki-0112.github.io/stat184-002/                 |  
+| Sarvjot Baxi            | Section 002       | baxiSahab            | https://github.com/baxiSahab/firstRepo                     |  
+| Oshika Mishra           | Section 002       | oshikamishra231      | https://github.com/oshikamishra231/STAT184/                |  
+| Kebei Yu                | Section 002       | oca510               | <https://oca510.github.io/class1/>                         |  
+| Enhao Yu                | Section 002       | ejy5081              | <https://ejy5081.github.io/STAT184_github_HW/>             |  
+
+
+<br>
+
 
 
 # Integration of RStudio with Git
