@@ -55,6 +55,10 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |
+| Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               | 
+| Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |
+| Hunter Fristick         | Section 002       | hjf5143              | <https://hjf5143.github.io/STAT184/>                       |
 | Cayle Londono           | Section 002       | clondono10           | <https://clondono10.github.io/Cayle-Londono-git-practice/> |    
 | Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |  
 | Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               |  
@@ -99,6 +103,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 
 
 <br>
+
 
 
 # Integration of RStudio with Git
