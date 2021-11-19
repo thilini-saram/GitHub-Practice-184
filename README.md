@@ -1,6 +1,5 @@
 
-# Merge Conflict A
-bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
+#  We resolved the conflict
 **(10 pts) Assignment Instructions**
 
 *Go slowly, follow the instructions carefully, and you'll be fine! Note the steps in each section.*
@@ -23,7 +22,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
     - Modify content in the README if you like, but it's fine to use filler content provided for now  
 - Go to Thilini's GitHub-Practice-184 repo (that generated this page).
     - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "thilini-saram", and find the GitHub-Practice-184 repo
-    - [Top right of Hunter's GitHub-S184 repo] >> Click on the "Fork" to create your own copy of the class repo
+    - [Top right of Thilini's GitHub-S184 repo] >> Click on the "Fork" to create your own copy of the class repo
     - Your copy of the repo should say "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `thilini-saram/GitHub-Practice-184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information. 
@@ -54,14 +53,13 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |
 | Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               | 
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |
 | Hunter Fristick         | Section 002       | hjf5143              | <https://hjf5143.github.io/STAT184/>                       |
 | Cayle Londono           | Section 002       | clondono10           | <https://clondono10.github.io/Cayle-Londono-git-practice/> |    
-| Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |  
-| Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               |  
+| Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |   
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |  
 | Hunter Fristick         | Section 002       | hjf5143              | https://hjf5143.github.io/STAT184/                         |  
 | Omer Canca              | Section 002       | oac5066              | <https://omercanca.github.io/Stat184/>                     |  
@@ -95,12 +93,12 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 |ChenXing Li              |section 002        |ckl5655               |<https://ckl5655.github.io/ChenXing-Li/>                    |  
 | Sung Chang              | Section 002       | changsh33            | <https://changsh33.github.io/changsh_repo/>                |  
 | Katie Kelly             | Section 002       | kvk5725              | <https://kvk5725.github.io/katie-kelly/>                   |  
-| Miho Suzuki             | Section 002       |  Msuzuki-0112        |https://msuzuki-0112.github.io/stat184-002/                 |  
+| Miho Suzuki             | Section 002       |  Msuzuki-0112        |https://msuzuki-0112.github.io/stat184-002/                 |   
 | Sarvjot Baxi            | Section 002       | baxiSahab            | https://github.com/baxiSahab/firstRepo                     |  
-| Oshika Mishra           | Section 002       | oshikamishra231      | https://github.com/oshikamishra231/STAT184/                |  
+| Oshika Mishra           | Section 002       | oshikamishra231      | https://github.com/oshikamishra231/STAT184/                |    
 | Kebei Yu                | Section 002       | oca510               | <https://oca510.github.io/class1/>                         |  
-| Enhao Yu                | Section 002       | ejy5081              | <https://ejy5081.github.io/STAT184_github_HW/>             |  
-
+| Enhao Yu                | Section 002       | ejy5081              | <https://ejy5081.github.io/STAT184_github_HW/>             |    
+| Yu Cheng, Cheng         | Section 002       | daren88888           | <https://daren88888.github.io/first/>                      |  
 
 <br>
 
