@@ -1,6 +1,5 @@
 
-# GitHub Pages Assignment
-
+#  We resolved the conflict
 **(10 pts) Assignment Instructions**
 
 *Go slowly, follow the instructions carefully, and you'll be fine! Note the steps in each section.*
