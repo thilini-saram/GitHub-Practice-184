@@ -54,7 +54,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Anna Gillard            | Section 002       | annagillard          | <https://annagillard.github.io/Practice-repo/>             |
 | Shubhang Srikoti        | Section 002       | shubhangsrikoti      | <https://shubhangsrikoti.github.io/newRepo/>               | 
 | Damin Park              | Section 002       | dparkdamin           | <https://dparkdamin.github.io/first_repo/>                 |
