@@ -23,7 +23,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
     - Modify content in the README if you like, but it's fine to use filler content provided for now  
 - Go to Thilini's GitHub-Practice-184 repo (that generated this page).
     - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "thilini-saram", and find the GitHub-Practice-184 repo
-    - [Top right of Hunter's GitHub-S184 repo] >> Click on the "Fork" to create your own copy of the class repo
+    - [Top right of Thilini's GitHub-S184 repo] >> Click on the "Fork" to create your own copy of the class repo
     - Your copy of the repo should say "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `thilini-saram/GitHub-Practice-184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information. 
