@@ -1,5 +1,5 @@
 
-# GitHub Pages Assignment
+# Merge Conflict A
 bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 **(10 pts) Assignment Instructions**
 
