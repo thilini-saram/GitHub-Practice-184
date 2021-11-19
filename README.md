@@ -96,8 +96,7 @@ bpm5606/GitHub-Practice-184 forked from `thilini-saram/GitHub-Practice-184`
 | Katie Kelly             | Section 002       | kvk5725              | <https://kvk5725.github.io/katie-kelly/>                   |  
 | Miho Suzuki             | Section 002       |  Msuzuki-0112        |https://msuzuki-0112.github.io/stat184-002/                 |  
 | Sarvjot Baxi            | Section 002       | baxiSahab            | https://github.com/baxiSahab/firstRepo                     |  
-| Oshika Mishra           | Section 002       | oshikamishra231      | https://github.com/oshikamishra231/STAT184/                |  
-| Thilini-test            | Section 003       | thilini-test         | <https://thilini-test.github.io/Test/>                     |  
+| Oshika Mishra           | Section 002       | oshikamishra231      | https://github.com/oshikamishra231/STAT184/                |    
 | Kebei Yu                | Section 002       | oca510               | <https://oca510.github.io/class1/>                         |  
 | Enhao Yu                | Section 002       | ejy5081              | <https://ejy5081.github.io/STAT184_github_HW/>             |    
 | Yu Cheng, Cheng         | Section 002       | daren88888           | <https://daren88888.github.io/first/>                      |  
