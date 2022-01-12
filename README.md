@@ -52,8 +52,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |
-|:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
+| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Jonathan Jackson           | Section 002       | jzj5528         | <https://jzj5528.github.io/STAT-184/>        |
 <br>
 
