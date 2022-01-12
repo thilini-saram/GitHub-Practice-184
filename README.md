@@ -26,8 +26,7 @@
     - Your copy of the repo should say "[your-userID]/GitHub-Practice-184" at the top with a tiny note saying it was forked from `thilini-saram/GitHub-Practice-184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
 - **Add a row** in your copy of the table with your information. 
-- 
-    - Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Thilini Saram" row as a template
+- Follow the pattern for placing the vertical bar characters (the vertical bar is found above the Enter key)... use the "Thilini Saram" row as a template
     - (2 pts) Add your First & Last Name  
     - (2 pt)  Add your Class Section
     - (2 pts) Add your GitHub ID  
