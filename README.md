@@ -53,7 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
-| Edward Peters           | Section 002       | enp1716              | <https://enp1716.github.io/Repository221B/>
+| Edward Peters           | Section 002       | enp1716              | <https://enp1716.github.io/Repository221B/>                |
 
 <br>
 
