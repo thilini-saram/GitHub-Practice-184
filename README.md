@@ -54,7 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
-
+| Nicholas Glaz           | Section 002       | nick-glaz            | https://nick-glaz.github.io/Github-Practice/               |
 
 <br>
 
