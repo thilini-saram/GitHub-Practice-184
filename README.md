@@ -53,6 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
+| Natalie Chow            | Section 002       | tonataliechow        | <https://tonataliechow.github.io/GitHubPractice/>          |
 
 <br>
 
