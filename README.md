@@ -52,7 +52,9 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
+| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
+| Charles Clyne           | Section 002       | charlieC2            | <https://charliec2.github.io/Pages-Assignment/>            | 
+
 
 <br>
 
