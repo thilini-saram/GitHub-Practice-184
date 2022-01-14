@@ -54,7 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
-
+| Jacob Hallowell         | Section 002       | jph5997              | <https://jph5997.github.io/GithubPractice/ >               |
 
 <br>
 
