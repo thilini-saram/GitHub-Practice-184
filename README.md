@@ -53,7 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
-| Yeji Park               | Section 002       | Yeji-Park            | <https://ypaark.github.io/Yeji-Park/>                        | 
+| Yeji Park               | Section 002       | Yeji-Park            | <https://github.com/yejipark0514/GitHub-Practice-184>      |                | 
 
 <br> 
 
