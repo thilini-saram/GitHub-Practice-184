@@ -52,7 +52,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Abeer Mathur            | Section 002       | Abeermathur7         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Abeer Mathur            | Section 002       | Abeermathur7         |https://abeermathur7.github.io/rProjects/                   |  
 <br>
 
 
