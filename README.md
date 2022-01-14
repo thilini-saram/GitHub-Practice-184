@@ -53,7 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
-
+| Jacob Noethiger         | Section 002       | jln5438              | <https://jln5438.github.io/practice/>                      |
 <br>
 
 
