@@ -52,10 +52,10 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
+| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
+| Yeji Park               | Section 002       | Yeji-Park            | <https://ypaark.github.io/Yeji-Park/>                        | 
 
-<br>
-
+<br> 
 
 
 # Integration of RStudio with Git
