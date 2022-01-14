@@ -52,7 +52,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
+| Louis Constable           | Section 002       | futurelou        | https://futurelou.github.io/Stat184/        |   
 
 <br>
 
