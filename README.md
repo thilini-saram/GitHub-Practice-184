@@ -53,7 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
-| Jamys Solosku.          | Section 002       | jsolosky735          | <https://jsolosky735.github.io/TestPracticeJS/>
+| Jamys Solosky           | Section 002       | jsolosky735          | <https://jsolosky735.github.io/TestPracticeJS/>
 <br>
 
 
