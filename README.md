@@ -53,7 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
-
+| Richard Maruss          | Section 002       | RichardMaruss        | <https://richardmaruss.github.io/Stat184_2022/>            | 
 <br>
 
 
