@@ -50,7 +50,7 @@
 
 # Class GitHub Table  
 
-| Shihan Jin              | STAT184     | shihanjin  SEC002          | https://shihanjin.github.io/file_1-/                                  |  
+| Shihan Jin              | STAT184 Section002    | shihanjin          | https://shihanjin.github.io/file_1-/                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
