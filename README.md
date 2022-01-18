@@ -54,7 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
-
+| Doehyung Kim            | Section 002       | doehyung99           | <https://doehyung99.github.io/2022-FALL-STAT-184/>         | 
 
 <br>
 
