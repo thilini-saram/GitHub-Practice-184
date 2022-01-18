@@ -53,6 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
+| Erik Loro               | Section 002       | erik-loro            | <https://erik-loro.github.io/STAT184_erikloro/>            |
 
 <br>
 
