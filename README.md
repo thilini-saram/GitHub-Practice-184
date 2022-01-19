@@ -51,7 +51,7 @@
 # Class GitHub Table  
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
-|:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
+| Kristina Phillips       |Section 002        | KFP5376              | <file://Kristina-Phillips1.github.io/GitHub-Practice_184/> 
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
 
