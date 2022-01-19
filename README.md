@@ -54,7 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
-| Sejun_Song              | Section 002       | Sejun-Song           | <https://Sejun-Song.github.io/GitHub-Pages-184/>           |
+| Sejun_Song              | Section 002       | Sejun-Song           | <https://Sejun-Song.github.io/GitHub-Pages-184/>          |
 
 
 <br>
