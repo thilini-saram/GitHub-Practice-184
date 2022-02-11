@@ -54,7 +54,16 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |
-| Aaryan Goel             | Section 002       | aaryangoel           | <https://aaryangoel.github.io/Github-Practice/>            |
+| Aaryan Goel             | Section 002       | aaryangoel           | <https://aaryangoel.github.io/Github-Practice/>            |   
+| Sagan Kakkar            | Section 002       | SaganKa              | <https://saganka.github.io/Assignment_1.18/>               |    
+| Sejun_Song              | Section 002       | Sejun-Song           | <https://Sejun-Song.github.io/GitHub-Pages-184/>           |  
+| Mohil_Patel             | Section 002       | mohil270             | <https://mohil270.github.io/GitHub-Practice-184/>          |  
+| Neeraj_Thokala          | Section 002       | NeoThokala           | <https://neothokala.github.io/GitHubPracticeSTAT184/>      |  
+| Yu-Hsin Liao            | Section 002       | jonasliao279         | <https://jonasliao279.github.io/GitHub-Practice-184/>      |  
+| Miranda Palmer          | Section 002       | mrp5636              | <https://mrp5636.github.io/GitHubPractice/>                |  
+| Erik Loro               | Section 002       | erik-loro            | <https://erik-loro.github.io/STAT184_erikloro/>            |  
+| Kristina Phillips       |Section 002        | KFP5376              | <file://Kristina-Phillips1.github.io/GitHub-Practice_184/> |  
+| Thomas Ku               | Section 002       | yang75009            | <https://yang75009.github.io/thomas/>                      |  
 
  
 <br>
