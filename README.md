@@ -64,6 +64,8 @@
 | Miranda Palmer          | Section 002       | mrp5636              | <https://mrp5636.github.io/GitHubPractice/>                |  
 | Erik Loro               | Section 002       | erik-loro            | <https://erik-loro.github.io/STAT184_erikloro/>            |  
 | Kristina Phillips       |Section 002        | KFP5376              | <file://Kristina-Phillips1.github.io/GitHub-Practice_184/> |  
+| Thomas Ku               | Section 002       | yang75009            | <https://yang75009.github.io/thomas/>                      |  
+
 
 <br>
 
