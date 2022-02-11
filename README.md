@@ -53,10 +53,9 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
-| Sagan Kakkar            | Section 002       | SaganKa              | <https://saganka.github.io/Assignment_1.18/>               |  
-| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
-| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |   
+| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |
+| Aaryan Goel             | Section 002       | aaryangoel           | <https://aaryangoel.github.io/Github-Practice/>            |   
+| Sagan Kakkar            | Section 002       | SaganKa              | <https://saganka.github.io/Assignment_1.18/>               |    
 | Sejun_Song              | Section 002       | Sejun-Song           | <https://Sejun-Song.github.io/GitHub-Pages-184/>           |  
 | Mohil_Patel             | Section 002       | mohil270             | <https://mohil270.github.io/GitHub-Practice-184/>          |  
 | Neeraj_Thokala          | Section 002       | NeoThokala           | <https://neothokala.github.io/GitHubPracticeSTAT184/>      |  
@@ -66,7 +65,7 @@
 | Kristina Phillips       |Section 002        | KFP5376              | <file://Kristina-Phillips1.github.io/GitHub-Practice_184/> |  
 | Thomas Ku               | Section 002       | yang75009            | <https://yang75009.github.io/thomas/>                      |  
 
-
+ 
 <br>
 
 
