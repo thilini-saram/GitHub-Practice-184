@@ -52,8 +52,15 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-test         | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
-| Erik Loro               | Section 002       | erik-loro            | <https://erik-loro.github.io/STAT184_erikloro/>            |
+| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |   
+| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |   
+| Sejun_Song              | Section 002       | Sejun-Song           | <https://Sejun-Song.github.io/GitHub-Pages-184/>           |  
+| Mohil_Patel             | Section 002       | mohil270             | <https://mohil270.github.io/GitHub-Practice-184/>          |  
+| Neeraj_Thokala          | Section 002       | NeoThokala           | <https://neothokala.github.io/GitHubPracticeSTAT184/>      |  
+| Yu-Hsin Liao            | Section 002       | jonasliao279         | <https://jonasliao279.github.io/GitHub-Practice-184/>      |  
+| Miranda Palmer          | Section 002       | mrp5636              | <https://mrp5636.github.io/GitHubPractice/>                |  
+| Erik Loro               | Section 002       | erik-loro            | <https://erik-loro.github.io/STAT184_erikloro/>            |  
+| Kristina Phillips       |Section 002        | KFP5376              | <file://Kristina-Phillips1.github.io/GitHub-Practice_184/> |  
 
 <br>
 
