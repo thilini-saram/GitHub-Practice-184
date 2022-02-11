@@ -53,7 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |   
+| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
 | Sejun_Song              | Section 002       | Sejun-Song           | <https://Sejun-Song.github.io/GitHub-Pages-184/>           |  
 | Mohil_Patel             | Section 002       | mohil270             | <https://mohil270.github.io/GitHub-Practice-184/>          |  
 | Neeraj_Thokala          | Section 002       | NeoThokala           | <https://neothokala.github.io/GitHubPracticeSTAT184/>      |  
