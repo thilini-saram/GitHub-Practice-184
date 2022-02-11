@@ -58,6 +58,8 @@
 | Mohil_Patel             | Section 002       | mohil270             | <https://mohil270.github.io/GitHub-Practice-184/>          |  
 | Neeraj_Thokala          | Section 002       | NeoThokala           | <https://neothokala.github.io/GitHubPracticeSTAT184/>      |  
 | Yu-Hsin Liao            | Section 002       | jonasliao279         | <https://jonasliao279.github.io/GitHub-Practice-184/>      |  
+| Miranda Palmer          | Section 002       | mrp5636              | <https://mrp5636.github.io/GitHubPractice/>                |  
+
 
 
 <br>
