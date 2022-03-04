@@ -54,6 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://github.com/thilini-saram/GitHub-Pages-184.git>    |    
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Yearin Kim              | Section 002       | Kyearin              | <https://kyearin.github.io/My-First-Repo/>                 |
 | Nicholas Glaz           | Section 002       | nick-glaz            | https://nick-glaz.github.io/Github-Practice/               |  
 | Victoria_Puck-Karam     | Section 002       | victoriapuck15       | <https://victoriapuck15.github.io/184GH/>                  |  
 | Yamin Zhang             | Section 002       | Yamy-Z               | <https://yamy-z.github.io/stat-184-github-practice/>       |  
@@ -66,13 +67,14 @@
 | Yu-Hsin Liao            | Section 002       | jonasliao279         | <https://jonasliao279.github.io/GitHub-Practice-184/>      |  
 | Miranda Palmer          | Section 002       | mrp5636              | <https://mrp5636.github.io/GitHubPractice/>                |  
 | Erik Loro               | Section 002       | erik-loro            | <https://erik-loro.github.io/STAT184_erikloro/>            |  
-| Kristina Phillips       |Section 002        | KFP5376              | <file://Kristina-Phillips1.github.io/GitHub-Practice_184/> |  
+| Kristina Phillips       | Section 002       | KFP5376              | <file://Kristina-Phillips1.github.io/GitHub-Practice_184/> |  
 | Thomas Ku               | Section 002       | yang75009            | <https://yang75009.github.io/thomas/>                      |  
 | Shihan Jin              | Section002        | shihanjin            | https://shihanjin.github.io/file_1-/                       |  
 | Jeremiah Strippoli      | Section 002       | JerryStrippoli       | <https://jerrystrippoli.github.io/GitHubPractice/>         |  
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
 | Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
+
 
 
 <br>
