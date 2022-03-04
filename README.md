@@ -52,8 +52,9 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram        | <https://github.com/thilini-saram/GitHub-Pages-184.git>    |    
-| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            | 
+| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini_Saram           | Section 002       | thilini-saram        | https://thilini-saram.github.io/TestPractice/              |  
+| Carl Foust              | Section 002       | carlmfoust           | <https://carlmfoust.github.io/Github-Practice-Stat-184/>   | 
 | Richard Maruss          | Section 002       | RichardMaruss        | <https://richardmaruss.github.io/Stat184_2022/>            |
 | Abeer Mathur            | Section 002       | Abeermathur7         |https://abeermathur7.github.io/rProjects/                   |  
 | Louis Constable         | Section 002       | futurelou            | https://futurelou.github.io/Stat184/                       |   
