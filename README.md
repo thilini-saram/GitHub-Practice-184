@@ -38,7 +38,7 @@
 - Merge your updated copy of the repo with Thilini's repo.
     - [Top right of YOUR GitHub-Practice-184 repo] >> Click "Pull requests" >> Click green button "New Pull Request"
     - GitHub will take you to MY (Thilini's) copy of the repo (`thilini-saram/GitHub-Practice-184` at the top)
-    - Click the green button "Create pull request"
+    - Click the green button "Create pull request" 
     - Describe the change again (e.g. "added Thilini Saram to class table")
     - (1 pt) You must click the green button "Create pull request" so that I can see your edit!
 - You're done!  
@@ -54,6 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://github.com/thilini-saram/GitHub-Pages-184.git>    |    
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Nicholas Glaz           | Section 002       | nick-glaz            | https://nick-glaz.github.io/Github-Practice/               |  
 | Victoria_Puck-Karam     | Section 002       | victoriapuck15       | <https://victoriapuck15.github.io/184GH/>                  |  
 | Yamin Zhang             | Section 002       | Yamy-Z               | <https://yamy-z.github.io/stat-184-github-practice/>       |  
 | Doehyung Kim            | Section 002       | doehyung99           | <https://doehyung99.github.io/2022-FALL-STAT-184/>         |  
