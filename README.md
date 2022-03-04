@@ -54,7 +54,8 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://github.com/thilini-saram/GitHub-Pages-184.git>    |    
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
-| Yearin Kim              | Section 002       | Kyearin              | <https://kyearin.github.io/My-First-Repo/>                 |
+| Miranda Goodman         | Section 002       | mag6785              | https://mag6785.github.io/repo1/                           |                                                                                      
+| Yearin Kim              | Section 002       | Kyearin              | <https://kyearin.github.io/My-First-Repo/>                 |  
 | Nicholas Glaz           | Section 002       | nick-glaz            | https://nick-glaz.github.io/Github-Practice/               |  
 | Victoria_Puck-Karam     | Section 002       | victoriapuck15       | <https://victoriapuck15.github.io/184GH/>                  |  
 | Yamin Zhang             | Section 002       | Yamy-Z               | <https://yamy-z.github.io/stat-184-github-practice/>       |  
@@ -74,7 +75,6 @@
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
 | Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
-
 
 
 <br>
