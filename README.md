@@ -52,8 +52,9 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
+| Thilini Saram           | Section 002       | thilini-saram        | <https://github.com/thilini-saram/GitHub-Pages-184.git>    |    
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Yamin Zhang             | Section 002       | Yamy-Z               | <https://yamy-z.github.io/stat-184-github-practice/>       |  
 | Doehyung Kim            | Section 002       | doehyung99           | <https://doehyung99.github.io/2022-FALL-STAT-184/>         |  
 | Aaryan Goel             | Section 002       | aaryangoel           | <https://aaryangoel.github.io/Github-Practice/>            |   
 | Sagan Kakkar            | Section 002       | SaganKa              | <https://saganka.github.io/Assignment_1.18/>               |    
@@ -69,7 +70,8 @@
 | Jeremiah Strippoli      | Section 002       | JerryStrippoli       | <https://jerrystrippoli.github.io/GitHubPractice/>         |  
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
- 
+| Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |
+
 
 <br>
 
