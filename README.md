@@ -68,8 +68,9 @@
 | Shihan Jin              | Section002        | shihanjin            | https://shihanjin.github.io/file_1-/                       |  
 | Jeremiah Strippoli      | Section 002       | JerryStrippoli       | <https://jerrystrippoli.github.io/GitHubPractice/>         |  
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
-
+| Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
  
+
 <br>
 
 
