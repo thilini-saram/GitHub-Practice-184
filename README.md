@@ -50,7 +50,7 @@
 
 # Class GitHub Table  
 
-| Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
+| Shihan Jin              | STAT184 Section002    | shihanjin          | https://shihanjin.github.io/file_1-/                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
@@ -77,3 +77,4 @@
 - More detail if needed: <http://happygitwithr.com/index.html>
 
 *Content credit: This assignment was adapted from [Matt Beckman's GitHub Pages Assignment](https://mdbeckman.github.io/GitHub-Practice-184/).* 
+
