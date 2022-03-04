@@ -52,6 +52,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
+| Louis Constable         | Section 002       | futurelou            | https://futurelou.github.io/Stat184/                       |    
 | Thilini Saram           | Section 002       | thilini-saram        | <https://github.com/thilini-saram/GitHub-Pages-184.git>    |    
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
 | Miranda Goodman         | Section 002       | mag6785              | https://mag6785.github.io/repo1/                           |                                                                                      
