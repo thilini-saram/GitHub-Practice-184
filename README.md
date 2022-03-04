@@ -52,9 +52,10 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Louis Constable         | Section 002       | futurelou            | https://futurelou.github.io/Stat184/                       |    
 | Thilini Saram           | Section 002       | thilini-saram        | <https://github.com/thilini-saram/GitHub-Pages-184.git>    |    
-| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            | 
+| Abeer Mathur            | Section 002       | Abeermathur7         |https://abeermathur7.github.io/rProjects/                   |  
+| Louis Constable         | Section 002       | futurelou            | https://futurelou.github.io/Stat184/                       |   
 | Miranda Goodman         | Section 002       | mag6785              | https://mag6785.github.io/repo1/                           |                                                                                      
 | Yearin Kim              | Section 002       | Kyearin              | <https://kyearin.github.io/My-First-Repo/>                 |  
 | Nicholas Glaz           | Section 002       | nick-glaz            | https://nick-glaz.github.io/Github-Practice/               |  
@@ -76,7 +77,6 @@
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
 | Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
-
 
 <br>
 
