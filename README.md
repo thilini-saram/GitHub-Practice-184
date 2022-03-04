@@ -52,7 +52,7 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
 | Doehyung Kim            | Section 002       | doehyung99           | <https://doehyung99.github.io/2022-FALL-STAT-184/>         |  
 | Aaryan Goel             | Section 002       | aaryangoel           | <https://aaryangoel.github.io/Github-Practice/>            |   
