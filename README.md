@@ -54,6 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Yeji Park               | Section 002       | Yeji-Park            | <https://github.com/yejipark0514/GitHub-Practice-184>      |  
 | Clare Robson            | Section 002       | claredlrobson        | <https://clarelrobson.github.io/stat-184/>                 |  
 | Jamys Solosky           | Section 002       | jsolosky735          | <https://jsolosky735.github.io/TestPracticeJS/>            |  
 | Natalie Chow            | Section 002       | tonataliechow        | <https://tonataliechow.github.io/GitHubPractice/>          |
@@ -88,9 +89,7 @@
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
 | Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
 
-
-<br>
-
+<br> 
 
 
 # Integration of RStudio with Git
