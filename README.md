@@ -53,7 +53,8 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Thilini_Saram           | Section 002       | thilini-saram        | https://thilini-saram.github.io/TestPractice/              |  
+| Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Jacob Hallowell         | Section 002       | jph5997              | <https://jph5997.github.io/GithubPractice/ >               |   
 | Andrew Cavanaugh        | Section 002       | drewcav              | <https://drewcav.github.io/Practice/>                      |  
 | Carl Foust              | Section 002       | carlmfoust           | <https://carlmfoust.github.io/Github-Practice-Stat-184/>   | 
 | Richard Maruss          | Section 002       | RichardMaruss        | <https://richardmaruss.github.io/Stat184_2022/>            |
@@ -80,6 +81,7 @@
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
 | Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
+
 
 
 <br>
