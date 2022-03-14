@@ -54,6 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Clare Robson            | Section 002       | claredlrobson        | <https://clarelrobson.github.io/stat-184/>                 |  
 | Jamys Solosky           | Section 002       | jsolosky735          | <https://jsolosky735.github.io/TestPracticeJS/>            |  
 | Natalie Chow            | Section 002       | tonataliechow        | <https://tonataliechow.github.io/GitHubPractice/>          |
 | Sam Snavely             | Section 002       | samsnav              | <https://samsnav.github.io/Stat_Git_Test/>                 |  
