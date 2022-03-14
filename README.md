@@ -54,6 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Jacob Quinones          | Section 002       | jjq5071              | <https://jjq5071.github.io/GitHub-Practice-Assignment/>    |
 | Jacob Noethiger         | Section 002       | jln5438              | <https://jln5438.github.io/practice/>                      |  
 | Jacob Hallowell         | Section 002       | jph5997              | <https://jph5997.github.io/GithubPractice/ >               |   
 | Andrew Cavanaugh        | Section 002       | drewcav              | <https://drewcav.github.io/Practice/>                      |  
@@ -82,6 +83,7 @@
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
 | Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
+
 
 <br>
 
