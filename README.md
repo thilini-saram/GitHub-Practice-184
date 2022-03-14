@@ -54,6 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Edward Peters           | Section 002       | enp1716              | <https://enp1716.github.io/Repository221B/>                |  
 | Charles Clyne           | Section 002       | charlieC2            | <https://charliec2.github.io/Pages-Assignment/>            |  
 | Yeji Park               | Section 002       | Yeji-Park            | <https://github.com/yejipark0514/GitHub-Practice-184>      |  
 | Clare Robson            | Section 002       | claredlrobson        | <https://clarelrobson.github.io/stat-184/>                 |  
@@ -89,6 +90,7 @@
 | Rohan Singh             | Section 002       | rohansingh601        | https://github.com/rohansingh601/GitHub-Practice-184       |  
 | Divyesh Johri           | Section 002       | Divyesh-Johri        | <https://divyesh-johri.github.io/stat184/>                 |  
 | Shubh Javia             | Section 002       | shubhjavia7          | <https://shubhjavia7.github.io/STAT-184-github-practice/>  |  
+
 
 <br> 
 
