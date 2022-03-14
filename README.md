@@ -54,6 +54,7 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Thilini_Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/TestPractice/>            |  
+| Sam Snavely             | Section 002       | samsnav              | <https://samsnav.github.io/Stat_Git_Test/>                 |  
 | Jacob Quinones          | Section 002       | jjq5071              | <https://jjq5071.github.io/GitHub-Practice-Assignment/>    |
 | Jacob Noethiger         | Section 002       | jln5438              | <https://jln5438.github.io/practice/>                      |  
 | Jacob Hallowell         | Section 002       | jph5997              | <https://jph5997.github.io/GithubPractice/ >               |   
