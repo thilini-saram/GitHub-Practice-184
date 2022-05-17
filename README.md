@@ -6,7 +6,7 @@
 - Sign up or log in to GitHub.
      - Go to the website https://github.com/.
      - Sign in to your GitHub account if you have one, or follow the instructions to sign up.
-     - Create your own GitHub profile/ID (make sure it's appropriate for job or grad school applications).
+     - Create your own GitHub profile/ID (make sure it's appropriate for job or grad school applications, for example, I use thilini-saram as my  GitHub ID).
 - Create a new repo.
     - [Top right of webpage] >> Click on the "+" >> Click "New repository" 
     - Enter a name for your new repo
