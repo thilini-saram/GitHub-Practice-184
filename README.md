@@ -53,6 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Tianyi Hong             | Sectino 101       | Tianyi-H             | <https://tianyi-h.github.io/22SS-STAT184_GitHub_practice/> |
 
 
 <br> 
