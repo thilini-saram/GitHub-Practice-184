@@ -55,8 +55,7 @@
 | Thilini Saram           | Section 101       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Praneeth Ramesh         | Section 101       | rameshpraneeth       | <https://rameshpraneeth.github.io/mywebpage/>              |  
 | Tianyi Hong             | Sectino 101       | Tianyi-H             | <https://tianyi-h.github.io/22SS-STAT184_GitHub_practice/> |  
-
-
+| Esha Teware             | Section 001       | ekt5138.             | <https://ekt5138.github.io/My-github-practice-Stat-184/>   |  
 
 <br> 
 
