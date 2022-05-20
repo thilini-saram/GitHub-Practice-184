@@ -54,6 +54,15 @@
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 101       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
 | Totton Hollenbeak       | Section 101       | totton-hollenbeak    | <https://totton-hollenbeak.github.io/GitHub-Practice/>     |  
+| jiachen lu              | Section 101       | leo66611             | <https://leo66611.github.io/inclass_activity_5-20/>        |
+| Vu Nguyen               | Seection 002      | vu-nguyen-28         | <https://vu-nguyen-28.github.io/rep-1/>                    |
+| Wenbo Zhong             | Section 101       | wenbozhong1011       | <https://wenbozhong1011.github.io/github-pratice/>         |  
+| I GEON YE               | Section 101       | IGEON-YE             | <https://igeon-ye.github.io/My-Page-IGY/>                  |
+| Praneeth Ramesh         | Section 101       | rameshpraneeth       | <https://rameshpraneeth.github.io/mywebpage/>              |  
+| Tianyi Hong             | Sectino 101       | Tianyi-H             | <https://tianyi-h.github.io/22SS-STAT184_GitHub_practice/> |  
+| Esha Teware             | Section 001       | ekt5138.             | <https://ekt5138.github.io/My-github-practice-Stat-184/>   |  
+| Alyssa Sheffy           | Section 101       | alyssasheffy         | <https://alyssasheffy.github.io/GitHub-Practice/>          |  
+| Congqi Lin              | Section 101       | AndyLin0825          | <https://andylin0825.github.io/My-web-page/>               |  
 
 
 <br> 
