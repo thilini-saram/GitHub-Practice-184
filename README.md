@@ -52,7 +52,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini Saram           | Section 101       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Totton Hollenbeak       | Section 101       | totton-hollenbeak    | <https://totton-hollenbeak.github.io/GitHub-Practice/>     |  
 
 
 <br> 
