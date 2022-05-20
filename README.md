@@ -53,7 +53,8 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-
+| Wenbo Zhong             | Section 101       | wenbozhong1011       | <https://wenbozhong1011.github.io/github-pratice/>         |
+ 
 
 <br> 
 
