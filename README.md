@@ -53,6 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Vu Nguyen               | Seection 002      | vu-nguyen-28         | <https://vu-nguyen-28.github.io/rep-1/>                    |
 
 
 <br> 
