@@ -56,6 +56,8 @@
 | Praneeth Ramesh         | Section 101       | rameshpraneeth       | <https://rameshpraneeth.github.io/mywebpage/>              |  
 | Tianyi Hong             | Sectino 101       | Tianyi-H             | <https://tianyi-h.github.io/22SS-STAT184_GitHub_practice/> |  
 | Esha Teware             | Section 001       | ekt5138.             | <https://ekt5138.github.io/My-github-practice-Stat-184/>   |  
+| Alyssa Sheffy           | Section 101       | alyssasheffy         | <https://alyssasheffy.github.io/GitHub-Practice/>          |
+
 
 <br> 
 
