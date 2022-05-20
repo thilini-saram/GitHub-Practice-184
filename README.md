@@ -52,7 +52,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Thilini Saram           | Section 101       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
+| Thilini Saram           | Section 101       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        | 
+| Yamin Zhang             | Section 101       | Yamy-Z               | <https://yamy-z.github.io/Github-practice/>                |
 | Jonathan Bryant         | Section 101       | jonbry               | <https://jonbry.github.io/github_pages_assignment/>        |
 | Totton Hollenbeak       | Section 101       | totton-hollenbeak    | <https://totton-hollenbeak.github.io/GitHub-Practice/>     |  
 | jiachen lu              | Section 101       | leo66611             | <https://leo66611.github.io/inclass_activity_5-20/>        |
