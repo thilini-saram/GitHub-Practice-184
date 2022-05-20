@@ -53,7 +53,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 002       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-
+| Esha Teware             | Section 001       | ekt5138.             | <https://ekt5138.github.io/My-github-practice-Stat-184/>   |
 
 <br> 
 
