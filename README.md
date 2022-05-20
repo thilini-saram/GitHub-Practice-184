@@ -53,10 +53,8 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |    
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Thilini Saram           | Section 101       | thilini-saram        | <https://thilini-saram.github.io/GitHub-Pages-184/>        |  
-| Tianyi Hong             | Sectino 101       | Tianyi-H             | <https://tianyi-h.github.io/22SS-STAT184_GitHub_practice/> |
-
-
-
+| Praneeth Ramesh         | Section 101       | rameshpraneeth       | <https://rameshpraneeth.github.io/mywebpage/>              |  
+| Tianyi Hong             | Sectino 101       | Tianyi-H             | <https://tianyi-h.github.io/22SS-STAT184_GitHub_practice/> |  
 
 
 
