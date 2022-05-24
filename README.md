@@ -66,6 +66,7 @@
 | Esha Teware             | Section 001       | ekt5138.             | <https://ekt5138.github.io/My-github-practice-Stat-184/>   |  
 | Alyssa Sheffy           | Section 101       | alyssasheffy         | <https://alyssasheffy.github.io/GitHub-Practice/>          |  
 | Congqi Lin              | Section 101       | AndyLin0825          | <https://andylin0825.github.io/My-web-page/>               |  
+| Yuming Sun              | Section 101       | jermyncorn           | <https://jermyncorn.github.io/STAT-184/>                   |
 
 
 <br> 
