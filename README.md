@@ -67,7 +67,7 @@
 | Alyssa Sheffy           | Section 101       | alyssasheffy         | <https://alyssasheffy.github.io/GitHub-Practice/>          |  
 | Congqi Lin              | Section 101       | AndyLin0825          | <https://andylin0825.github.io/My-web-page/>               |  
 | Yuming Sun              | Section 101       | jermyncorn           | <https://jermyncorn.github.io/STAT-184/>                   |
-
+| Weiting Yu              | Section 101       | WeitingYu0316        | <https://weitingyu0316.github.io/mywebpage/>               |  
 
 <br> 
 
