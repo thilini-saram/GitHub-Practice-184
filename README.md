@@ -2,6 +2,8 @@
 #  GitHub Pages Assignment
 **(10 pts) Assignment Instructions**
 
+Adding a sentence
+
 *Go slowly, follow the instructions carefully, and you'll be fine! Note the steps in each section.*
 - Sign up or log in to GitHub.
      - Go to the website https://github.com/.
